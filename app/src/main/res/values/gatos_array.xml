@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string-array name="gatos_array">
+            <item>Gato vivo</item>
+            <item>Siames</item>
+            <item>gato morto</item>
+        </string-array>
+
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="caes_array">
+        <item>vivo</item>
+        <item>Dalmata</item>
+        <item>morto</item>
+        <item>chines</item>
+        <item>ponta solta</item>
+        <item>canini ugandes</item>
+        <item>bulldog alemao</item>
+        <item>racudo das filipinas</item>
+        <item>rabo pintado</item>
+        <item>funil</item>
+        <item>redondo malhado</item>
+        <item>Labrador</item>
+        <item>fera Jong-Un</item>
+        <item>unhas pintadas</item>
+        <item>caco roto</item>
+        <item>fastbender</item>
+        <item>mustique prateado</item>
+        <item>Trumpweiller</item>
+        <item>000.00...0000.000.00000.000.000.0.0.0000</item>
+    </string-array>
+</resources>
